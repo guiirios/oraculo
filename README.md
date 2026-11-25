@@ -1,5 +1,7 @@
 # 🔮 Oráculo — Agente Inteligente de Pesquisa em Arquivos
 
+🔗 **Acesse online:** [guiirios.github.io/oraculo](https://guiirios.github.io/oraculo/)
+
 O **Oráculo** é um assistente de IA leve, prático e **100% client-side** (roda direto no navegador em um único `index.html`, sem precisar instalar servidor) que lê arquivos de uma pasta local e responde em formato de chat com busca semântica via **API do Google Gemini**.
 
 ---
@@ -49,8 +51,8 @@ O **Oráculo** é um assistente de IA leve, prático e **100% client-side** (rod
 
 ## 🚀 Como usar
 
-1. Abra o arquivo **`index.html`** no Chrome ou Edge (ou acesse pelo link do **GitHub Pages**).
-2. Clique em **📂 Selecionar Pasta** na barra lateral esquerda e aponte para uma pasta (você pode testar usando a pasta `documentos_exemplo/` deste repositório).
+1. Acesse online em **[guiirios.github.io/oraculo](https://guiirios.github.io/oraculo/)** (ou abra o arquivo **`index.html`** no Chrome/Edge).
+2. Clique em **📂 Selecionar Pasta** na barra lateral esquerda e aponte para uma pasta (você pode testar usando `documentos_exemplo/` ou `filmes_exemplo/`).
 3. *(Opcional)* Para ativar as respostas com IA, gere uma chave gratuita em [aistudio.google.com/apikey](https://aistudio.google.com/apikey) e cole no campo **"Chave API Gemini"** no canto inferior esquerdo.
 4. Converse normalmente no chat!
 
@@ -69,3 +71,9 @@ O **Oráculo** é um assistente de IA leve, prático e **100% client-side** (rod
 - **Google Gemini API** (`streamGenerateContent` com `systemInstruction`)
 - **PDF.js** (leitura de arquivos `.pdf` no navegador)
 - **Mammoth.js** (leitura de arquivos `.docx` no navegador)
+
+---
+
+## 👤 Autor
+
+Criado por **Guilherme Rios** — [GitHub (@guiirios)](https://github.com/guiirios)
